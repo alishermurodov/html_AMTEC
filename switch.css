@@ -1,0 +1,38 @@
+.switch{
+    height: 561px;
+    width: 100%;
+    background-image: url(img/switch_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.switch_info p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #3E7850;
+    margin-bottom: 17px;
+}
+
+.switch_info h2{
+    width: 481px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #252525;
+    margin-bottom: 10px;
+}
+
+.switch_info h6{
+    width: 432px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.switch_info h5{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0060B8;
+}

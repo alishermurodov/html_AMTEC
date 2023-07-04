@@ -1,0 +1,92 @@
+.header_top {
+    background-image: url(img/header_top_bg.png);
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.head_input {
+    display: flex;
+}
+
+.head_input p {
+    color: #B4B4B4;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.head_input_input {
+    display: flex;
+    width: 520px;
+    height: 44px;
+    border-radius: 3px 0px 0px 3px;
+    border: 1px solid #CACACA;
+    padding-left: 10px;
+    margin-bottom: 9px;
+}
+
+
+.header_logo p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.head_input button {
+    width: 119px;
+    height: 44px;
+    border-radius: 0px 3px 3px 0px;
+    background: #3E7850;
+    color: #fff;
+    border: none;
+}
+
+
+.phone {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 8px;
+}
+
+.phones {
+    text-align: end;
+}
+
+.phones p {
+    margin-bottom: 8px;
+    color: #686868;
+    font-size: 14px;
+}
+
+.menu {
+    display: flex;
+    height: 60px;
+    align-items: center;
+}
+
+.menu li {
+    color: #3E7850;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.header_bottom {
+
+    height: 60px;
+    width: 100%;
+    border: 1px solid #E5E5E5;
+}
+
+.menu li {
+    margin-left: 114px;
+
+}
+
+.menu_hr {
+    margin-left: 88px;
+}
+
+.phones_adabtive {
+    display: none;
+}

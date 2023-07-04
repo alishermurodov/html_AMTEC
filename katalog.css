@@ -1,0 +1,40 @@
+.katalog{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 66px 0 94px 0;
+}
+
+.katalog_line{
+    margin-bottom: 70px;
+}
+
+.katalog_img_top{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.katalog_img_bottom{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+
+.engine_part_img{
+    background: #FFFFFF;
+    width: 255px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 0 0 6px 0 rgb(225, 219, 219);
+}
+
+.engine_part_img p{
+    text-align: left;
+    padding: 10px 0 0 10px;
+}

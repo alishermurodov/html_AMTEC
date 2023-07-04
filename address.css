@@ -1,0 +1,93 @@
+.address {
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    margin: 95px 0;
+}
+
+
+.address_info h3 {
+    color: #252525;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 14px;
+}
+
+.address_info svg {
+    margin-bottom: 47px;
+}
+
+.address_info h5 {
+    color: #232323;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.address_info p {
+    color: #232323;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 28px;
+
+}
+
+fieldset {
+    width: 485px;
+    height: 48px;
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #0060B8;
+    margin-bottom: 28px;
+}
+
+.name {
+    width: 485px;
+    height: 25px;
+    border: none;
+
+}
+
+.email {
+    width: 485px;
+    height: 48px;
+    border-radius: 3px;
+    border: 1px solid #CACACA;
+    background: #FFF;
+    margin-bottom: 28px;
+    padding-left: 15px;
+}
+
+.message {
+    width: 485px;
+    height: 208px;
+    border-radius: 3px;
+    border: 1px solid #CACACA;
+    background: #FFF;
+    margin-bottom: 28px;
+    padding: 15px 0 0 15px;
+    top: 0;
+}
+
+.address_inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn_sss{
+    display: flex;
+    align-items: start;
+}
+
+.btn_sss p{
+    width: 330px;
+    margin:0 59px 0 10px;
+}
+
+.btn_sss button{
+    width: 160px;
+height: 44px;
+color: #fff;
+background: #3E7850;
+border: none;
+}
